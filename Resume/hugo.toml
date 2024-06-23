@@ -1,6 +1,7 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Tim is pretty neat'
+theme = 'hugo-universal-theme'
 [[params.menu]]
     name = "Test"
     url  = "/test"
